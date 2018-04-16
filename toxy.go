@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 	"runtime"
-	"ting"
-	"toxy"
-	"xlog"
+	"toxy/src/ting"
+	"toxy/src/toxy"
+	"toxy/src/xlog"
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )

@@ -3,8 +3,8 @@ package ting
 import (
 	"errors"
 	"fmt"
-	"toxy"
-	"xlog"
+	"toxy/src/toxy"
+	"toxy/src/xlog"
 
 	. "github.com/stdrickforce/thriftgo/protocol"
 	. "github.com/stdrickforce/thriftgo/thrift"

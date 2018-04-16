@@ -11,8 +11,8 @@ import (
 	"sync/atomic"
 	"syscall"
 	"time"
-	"xlog"
-	"xmetric"
+	"toxy/src/xlog"
+	"toxy/src/xmetric"
 
 	raven "github.com/getsentry/raven-go"
 	. "github.com/stdrickforce/thriftgo/protocol"
